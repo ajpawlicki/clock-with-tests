@@ -1,0 +1,24 @@
+{
+  "name": "clock-with-tests",
+  "version": "1.0.0",
+  "description": "A simple clock with tests.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "start": "open client/index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ajpawlicki/clock-with-tests.git"
+  },
+  "author": "Aloysius",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ajpawlicki/clock-with-tests/issues"
+  },
+  "homepage": "https://github.com/ajpawlicki/clock-with-tests#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "jest": "^21.2.1"
+  }
+}
